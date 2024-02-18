@@ -1,3 +1,7 @@
+**Kaggle Notebook**:
+
+https://www.kaggle.com/suyashkira/restaurant-rating-prediction-ineuron-internship/edit
+
 **Dataset Links**:
 https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?select=zomato.csv
 https://www.kaggle.com/datasets/suyashkira/zomato-preprocessed-data-with-combined-senti-score
