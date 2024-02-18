@@ -1,4 +1,8 @@
-Deployed Web App Link:
+**Dataset Links**:
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?select=zomato.csv
+https://www.kaggle.com/datasets/suyashkira/zomato-preprocessed-data-with-combined-senti-score
+
+**Deployed Web App Link**:
 https://zomatorestaurantratingprediction-4xesakydazded39fjqftsu.streamlit.app/
 
 
