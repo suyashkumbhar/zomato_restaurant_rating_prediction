@@ -8,7 +8,7 @@ https://zomatorestaurantratingprediction-4xesakydazded39fjqftsu.streamlit.app/
    - Cafe Coffee Day, Onesta, and Just Bake emerge as the most popular restaurants based on the number of outlets. This indicates their widespread presence and potentially high customer reach.
 
 2. **Top-Rated Restaurant Chains:**
-   - Belgian Waffle Factory, SantÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃ, AB's - Absolute Barbecues, Punjab Grill, Byg Brewski Brewing Company, and Asia Kitchen By Mainland China stand out as the top 6 restaurant chains in terms of ratings. These establishments have garnered positive reviews and high ratings from customers.
+   - Belgian Waffle Factory, SantÃ, AB's - Absolute Barbecues, Punjab Grill, Byg Brewski Brewing Company, and Asia Kitchen By Mainland China stand out as the top 6 restaurant chains in terms of ratings. These establishments have garnered positive reviews and high ratings from customers.
 
 3. **Popular Restaurant Chains by Votes:**
    - Byg Brewski Brewing Company, Toit, and Truffles are the top 3 restaurant chains that have gained popularity based on votes. This suggests a strong and engaged customer base for these establishments.
